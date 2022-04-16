@@ -1,16 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.97469dbe.css",
-    "main.js": "/static/js/main.16f178e8.js",
+    "main.css": "/static/css/main.91722633.css",
+    "main.js": "/static/js/main.194cab76.js",
     "static/js/787.cc6413d7.chunk.js": "/static/js/787.cc6413d7.chunk.js",
+    "static/media/bombe.jpg": "/static/media/bombe.3e812684bc0f19ac1cdb.jpg",
+    "static/media/rotor.png": "/static/media/rotor.390e3ab8e08cef712836.png",
+    "static/media/manchesterBaby.jpg": "/static/media/manchesterBaby.2688e89cba6792b67ed6.jpg",
+    "static/media/enigma.jpg": "/static/media/enigma.0557e657e11cf77d2875.jpg",
+    "static/media/alanTuring.jpg": "/static/media/alanTuring.95b31be1b900f29a7fc6.jpg",
     "static/media/bletchleyPark.jpg": "/static/media/bletchleyPark.4fe645ef9d9c13c75edf.jpg",
+    "static/media/WrensModified.jpg": "/static/media/WrensModified.ebfe56f280d4543ec95a.jpg",
+    "static/media/alanTuringModifiedBlack.jpg": "/static/media/alanTuringModifiedBlack.74a0257a3489846a53ce.jpg",
+    "static/media/maxNewmanModified.jpg": "/static/media/maxNewmanModified.150f32bc503ced3672e7.jpg",
+    "static/media/colossus.jpg": "/static/media/colossus.35d7b11652362621f7da.jpg",
     "index.html": "/index.html",
-    "main.97469dbe.css.map": "/static/css/main.97469dbe.css.map",
-    "main.16f178e8.js.map": "/static/js/main.16f178e8.js.map",
+    "main.91722633.css.map": "/static/css/main.91722633.css.map",
+    "main.194cab76.js.map": "/static/js/main.194cab76.js.map",
     "787.cc6413d7.chunk.js.map": "/static/js/787.cc6413d7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.97469dbe.css",
-    "static/js/main.16f178e8.js"
+    "static/css/main.91722633.css",
+    "static/js/main.194cab76.js"
   ]
 }
