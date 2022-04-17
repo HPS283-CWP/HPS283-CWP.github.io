@@ -1,25 +1,31 @@
 {
   "files": {
     "main.css": "/static/css/main.91722633.css",
-    "main.js": "/static/js/main.194cab76.js",
+    "main.js": "/static/js/main.285b6c00.js",
     "static/js/787.cc6413d7.chunk.js": "/static/js/787.cc6413d7.chunk.js",
     "static/media/bombe.jpg": "/static/media/bombe.3e812684bc0f19ac1cdb.jpg",
-    "static/media/rotor.png": "/static/media/rotor.390e3ab8e08cef712836.png",
     "static/media/manchesterBaby.jpg": "/static/media/manchesterBaby.2688e89cba6792b67ed6.jpg",
     "static/media/enigma.jpg": "/static/media/enigma.0557e657e11cf77d2875.jpg",
-    "static/media/alanTuring.jpg": "/static/media/alanTuring.95b31be1b900f29a7fc6.jpg",
     "static/media/bletchleyPark.jpg": "/static/media/bletchleyPark.4fe645ef9d9c13c75edf.jpg",
-    "static/media/WrensModified.jpg": "/static/media/WrensModified.ebfe56f280d4543ec95a.jpg",
-    "static/media/alanTuringModifiedBlack.jpg": "/static/media/alanTuringModifiedBlack.74a0257a3489846a53ce.jpg",
-    "static/media/maxNewmanModified.jpg": "/static/media/maxNewmanModified.150f32bc503ced3672e7.jpg",
+    "static/media/rotor.png": "/static/media/rotor.fd8774b965dcfbf8de77.png",
+    "static/media/wrens.jpeg": "/static/media/wrens.35aca7ee8f8451cacafc.jpeg",
+    "static/media/bletchleyParkMap.JPG": "/static/media/bletchleyParkMap.2f02fd08b9ce8ccbfe0d.JPG",
+    "static/media/workersModified.jpg": "/static/media/workersModified.614c950dca8648536864.jpg",
+    "static/media/wrensCropped.jpg": "/static/media/wrensCropped.38b38308ef18b8a9eb46.jpg",
+    "static/media/turingTest.png": "/static/media/turingTest.d32f9044b96d0b28de8b.png",
+    "static/media/maxNewmanCropped.jpg": "/static/media/maxNewmanCropped.beec37fb4f1d68357f2a.jpg",
+    "static/media/alanTuringModifiedBlack.jpg": "/static/media/alanTuringModifiedBlack.8049e0361dbf2aedd87e.jpg",
+    "static/media/alanTuringCropped.jpg": "/static/media/alanTuringCropped.962311b63354fe5cb58b.jpg",
+    "static/media/wrensOperatingColossus.jpg": "/static/media/wrensOperatingColossus.f4260c587f2464e7ebd9.jpg",
+    "static/media/maxNewmanModified.jpg": "/static/media/maxNewmanModified.34d1e98419c3b79c19aa.jpg",
     "static/media/colossus.jpg": "/static/media/colossus.35d7b11652362621f7da.jpg",
     "index.html": "/index.html",
     "main.91722633.css.map": "/static/css/main.91722633.css.map",
-    "main.194cab76.js.map": "/static/js/main.194cab76.js.map",
+    "main.285b6c00.js.map": "/static/js/main.285b6c00.js.map",
     "787.cc6413d7.chunk.js.map": "/static/js/787.cc6413d7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.91722633.css",
-    "static/js/main.194cab76.js"
+    "static/js/main.285b6c00.js"
   ]
 }
